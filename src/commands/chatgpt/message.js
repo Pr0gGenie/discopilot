@@ -5,6 +5,6 @@ module.exports = {
     .setName("message")
     .setDescription("Sends a message to ChatGPT"),
   async execute(interaction) {
-    await interaction.reply("Message sent to ChatGPT");
-  }
-}
+    await interaction.reply("Works!");
+  },
+};
