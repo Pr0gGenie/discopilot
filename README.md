@@ -1,4 +1,4 @@
 
 # Discopilot
 
-A discord application to respond using ChatGPT.
+A discord application to respond using LLMs.
